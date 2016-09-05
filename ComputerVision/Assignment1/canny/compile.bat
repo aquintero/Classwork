@@ -1,0 +1,1 @@
+gcc -o canny canny.c
