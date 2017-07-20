@@ -1,0 +1,11 @@
+*.pgm
+*.tlog
+*.txt
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.log
+*.pch
+*.cls

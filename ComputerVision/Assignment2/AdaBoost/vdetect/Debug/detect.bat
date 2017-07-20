@@ -1,0 +1,1 @@
+vdetect.exe -i new.cls Germany.pgm
